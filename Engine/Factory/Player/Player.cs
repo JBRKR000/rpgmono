@@ -41,7 +41,23 @@ public class Player
 
     public void Move(Vector2 direction)
     {
-        if(direction != Vector2.Zero)
+        if(Position.X < 0)
+        {
+            Position = new Vector2(0, Position.Y);
+        }
+        if(Position.Y < 0)
+        {
+            Position = new Vector2(Position.X, 0);
+        }
+        if (Position.X > 1280 - Texture.Width)
+        {
+            Position = new Vector2(1280 - Texture.Width, Position.Y);
+        }
+        if (Position.Y > 720 - Texture.Height)
+        {
+            Position = new Vector2(Position.X, 720 - Texture.Height);
+        }
+        if (direction != Vector2.Zero)
         {
             direction.Normalize();
         }

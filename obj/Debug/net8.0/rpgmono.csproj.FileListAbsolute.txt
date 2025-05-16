@@ -30,3 +30,4 @@ D:\VSCODE_REPOS\rpgmono\rpgmono\obj\Debug\net8.0\rpgmono.pdb
 D:\VSCODE_REPOS\rpgmono\rpgmono\obj\Debug\net8.0\rpgmono.genruntimeconfig.cache
 D:\VSCODE_REPOS\rpgmono\rpgmono\obj\Debug\net8.0\ref\rpgmono.dll
 d:\VSCODE_REPOS\rpgmono\rpgmono\bin\Debug\net8.0\Content\warrior_idle.xnb
+D:\VSCODE_REPOS\rpgmono\rpgmono\obj\Debug\net8.0\rpgmono.sourcelink.json

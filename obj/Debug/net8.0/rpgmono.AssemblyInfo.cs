@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("rpgmono")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a0b158b4d6a9d8c168626d3bb92c79052e34e97")]
 [assembly: System.Reflection.AssemblyProductAttribute("rpgmono")]
 [assembly: System.Reflection.AssemblyTitleAttribute("rpgmono")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
